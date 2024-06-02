@@ -1,0 +1,6 @@
+client
+server
+.vscode/
+board.o
+client.o
+server.o
