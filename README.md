@@ -2,6 +2,11 @@
 
 Este proyecto implementa el juego de Conecta 4 utilizando sockets y concurrencia en C++. El servidor maneja múltiples conexiones de clientes utilizando hilos (threads), permitiendo que varios clientes jueguen simultáneamente.
 
+## Alumnos
+
+- Diego Alexis Salazar Jara
+- Francisco Ramón Ojeda Casanueva
+
 ## Instrucciones de Compilación
 
 Para compilar el proyecto, asegúrate de tener `g++` instalado. Luego, sigue estos pasos:
@@ -40,3 +45,5 @@ Para compilar el proyecto, asegúrate de tener `g++` instalado. Luego, sigue est
 
 - [Servidor](./src/server.md): Documentación del servidor de Conecta 4.
 - [Cliente](./src/client.md): Documentación del cliente de Conecta 4.
+
+  ⌨️ with ❤️ by [@Didudocl](https://github.com/Didudocl) y [@Metalcl](https://github.com/Metalcl) 
